@@ -1,5 +1,7 @@
 ## Hello World! Here's to my first GitHub page.
 
+<div align="center"><img src="peace_0.jpg" width="300" height="200" alt="description-of-image" /></div>
+
 ```markdown
 Syntax highlighted code block
 
